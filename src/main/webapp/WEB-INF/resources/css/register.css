@@ -1,0 +1,12 @@
+.center_div{
+    margin: 0 auto;
+    width:50% /* value of your choice which suits your alignment */
+}
+
+.colorText3{
+	color: #8080ff;
+}
+#colorText1{
+	color:#004080;
+	text-align: center;
+}

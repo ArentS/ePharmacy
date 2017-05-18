@@ -1,0 +1,81 @@
+body {
+	margin: 0;
+	padding: 0;
+	background: #697281;
+	color: #F1F5F8;
+	background-color: #C1C1C1;
+}
+
+* {
+	margin: 0 auto 0 auto;
+	text-align: left;
+}
+
+#page {
+	margin: 0 auto 0 auto;
+	display: block;
+	height: auto;
+	position: relative;
+	overflow: hidden;
+	background: #f5f5f5 url("/emusicstore/resources/images/background1.png");
+	repeat-y;
+	width: 750px;
+}
+
+#header {
+	background-repeat: no-repeat;
+	width: 798px;
+	height: 34px;
+	margin: 0 auto 0 auto;
+	color: #267B9B;
+	text-align: left;
+	padding-left: 75px;
+	font-style: italic;
+	font-size: 11px;
+	
+}
+
+#bar {
+	background-image: url("/emusicstore/resources/images/bar1.png");
+	background-repeat: no-repeat;
+	height: 53px;
+	width: 750px;
+	padding-bottom: 15px;
+}
+
+.contentTitle {
+	width: 700px;
+	height: 44px;
+	margin-top: 20px;
+	margin-left: 25px;
+	margin-right: 25px;
+	background-image: url("/emusicstore/resources/images/tab_back1.png");
+	background-repeat: no-repeat;
+}
+
+.contentTitle h1 {
+	margin-left: 21px;
+	padding-top: 8px;
+	font-size: 17px;
+	font-weight: bold;
+	color: #071027;
+}
+
+.contentText {
+	width: 680px;
+	padding-left: 30px;
+	padding-right: 30px;
+	font-size: 13px;
+	color: #030712;
+	line-height: 30px;
+}
+
+#footer {
+	width: 750px;
+	height: 49px;
+	background: url("/emusicstore/resources/images/footer1.png"); no-repeat;
+	text-align: center;
+	font-size: 9px;
+	color: #223F8D;
+	padding-top: 36px;
+}
